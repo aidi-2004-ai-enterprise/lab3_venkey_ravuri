@@ -1,0 +1,4 @@
+2025-07-24 22:07:28,666 - app.main - INFO - Model successfully loaded from app/data/model.json
+2025-07-24 22:07:28,669 - app.main - INFO - Model metadata loaded. Features: 9, Classes: ['Adelie', 'Chinstrap', 'Gentoo']
+2025-07-24 22:07:28,670 - app.main - INFO - Application startup completed successfully
+2025-07-24 22:08:31,043 - app.main - ERROR - Prediction error: 'str' object has no attribute 'value'

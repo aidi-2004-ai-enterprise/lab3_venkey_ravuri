@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+app/main.py
+penguins_classifier.egg-info/PKG-INFO
+penguins_classifier.egg-info/SOURCES.txt
+penguins_classifier.egg-info/dependency_links.txt
+penguins_classifier.egg-info/requires.txt
+penguins_classifier.egg-info/top_level.txt
